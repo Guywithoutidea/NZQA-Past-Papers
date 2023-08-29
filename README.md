@@ -29,5 +29,8 @@ Level 3<br />
 . . . . . . . . . . . . . . . . **Exam, Exemplar, or Schedule**<br />
 . . . . . . . . . . . . . . . . 91909-exm-2022.pdf<br />
                 
+Copyright for all exams, exemplars and schedules in this repository is held by the New Zealand Qualifications Authority, under the Creative Commons (CC) New Zealand 3.0 licence. 
+
+Under this licence and the conditions set out by NZQA on their site, this grants the freedom to copy and redistribute the material for non-commercial use. In no way does NZQA endorse this repository.
           
         
