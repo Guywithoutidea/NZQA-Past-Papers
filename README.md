@@ -34,14 +34,14 @@ Copyright for all exams, exemplars and schedules in this repository is held by t
 Under this licence and the conditions set out by NZQA on their site, this grants the freedom to copy and redistribute the material for non-commercial use. In no way does NZQA endorse this repository.
           
 # Issues & Push Requests
-If there is a past paper that isn't present in this repository or is incorrectly structured correctly in the file structure you are able to mark it as an issue under the issues tab of this GitHub Repository.
-You are able to Fork this repository and do a Push Request for a paper to uploaded to this GitHub Repository. Just note we will need to approve the Push Request in order to appear on the main repository here.
+If you notice any paper(s) schedule(s) or exemplar(s) are missing or do not conform to the file structure, you can mark it as an issue under the issues tab.
+Otherwise, if you wish to upload a paper that has been missed, fork this repository and perform a push request. As usual, push requests need to be approved before appearing on the main repository.
 
-We will address issues with the following responces...
-- Successful Upload of missing standard
+We will address issues with the following responses:
+- Successful upload of missing standard
 - More information about a specific standard
-- Unsuccessful Upload of missing standard
+- Unsuccessful upload of missing standard
 - Fix of file structure
-- Push Requests
+- Push requests
 
-Thank you for your support with this Repository!
+Thank you for supporting this Repository!
