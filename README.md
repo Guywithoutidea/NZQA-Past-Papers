@@ -1,5 +1,5 @@
 # NZQA-Past-Papers
-A repository of all exams, exemplars, and past papers prior to 2023. (Work in progress)
+A repository of exams, exemplars, and past papers prior to 2023. (Work in progress)
 
 This was created in response to NZQA's decision to remove all resources older than three years from their website. This is unhelpful, as the papers, schedules, and exemplars they are removing are still valuble resources for students. While older exams are not allways in line with updated standards and are not completely representative of what students will encounter in the exam hall, they are still suitable for revision and practicing of exam craft. This repository aims to preserve these documents so they can continue to be useful to students.
 
